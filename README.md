@@ -62,3 +62,19 @@ Digite as horas de uso por dia: 10
 Aparelho: Geladeira
 Consumo estimado: 45.00 kWh/mês
 Custo estimado: R$ 33.75
+## 📂 Estrutura do projeto
+
+```text
+consumo-energia/
+├── app.py
+└── README.md
+
+## 🚀 Tecnologias
+
+- 🐍 Python
+- 🐙 GitHub
+- ⚡ Cálculo de consumo de energia elétrica
+
+## 👨‍💻 Autor
+
+Kelvin Kalard
