@@ -1,7 +1,7 @@
 # ⚡ Calculadora de Consumo Elétrico Inteligente
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-Repositório-black?logo=github)
+![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github&logoColor=white)
 ![Energia](https://img.shields.io/badge/Energia-Consumo%20Elétrico-yellow)
 
 ## 📖 Sobre o projeto
